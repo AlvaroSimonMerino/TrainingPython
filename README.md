@@ -1,3 +1,5 @@
-# PruebaPrivada
+# TrainingPython
 
-#Estoy incluyendo texto en my branch, después haré un merge en la principal
+This repository includes some of the Codecademy courses for Python (Python 3, BeautifulSoup...)
+
+And also some oher projects made in Python.
